@@ -1,12 +1,12 @@
 # Gerador e Validador Quartz Cron
 
-Uma ferramenta completa, moderna e totalmente independente para gerar, validar, traduzir e prever execuções de expressões **Quartz Cron** (6 ou 7 campos).
+Uma ferramenta totalmente independente para gerar, validar, traduzir e prever execuções de expressões **Quartz Cron** (6 ou 7 campos).
 
 Desenvolvida em um único arquivo **XHTML estrito** (`index.xhtml`), pronta para uso sem necessidade de conexão com a internet, servidores locais, Node.js ou instalação de qualquer dependência.
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Basta abrir o arquivo `index.xhtml` em qualquer navegador web moderno (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, Opera, etc.):
    - **Duplo-clique** no arquivo `index.xhtml`; ou
@@ -15,7 +15,7 @@ Desenvolvida em um único arquivo **XHTML estrito** (`index.xhtml`), pronta para
 
 ---
 
-## ✨ Recursos
+## Recursos
 
 - **Validador Estrito Quartz**:
   - Aceita 6 ou 7 campos: `Segundos`, `Minutos`, `Horas`, `Dia do Mês`, `Mês`, `Dia da Semana` e `Ano (opcional)`.
@@ -57,4 +57,3 @@ Desenvolvida em um único arquivo **XHTML estrito** (`index.xhtml`), pronta para
 
 - **Zero dependências externas**: Não utiliza CDNs externos, fontes remotas ou imagens externas.
 - **Total privacidade**: Nenhuma informação digitada sai do seu navegador.
-- **Compatibilidade total**: Estruturado como documento XML/XHTML válido para máxima fidelidade e longevidade.
