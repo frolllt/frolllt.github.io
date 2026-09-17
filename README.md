@@ -43,7 +43,7 @@ Desenvolvida em um único arquivo **XHTML estrito** (`index.xhtml`), pronta para
 
 ---
 
-## 📋 Estrutura dos Campos Quartz
+## Estrutura dos Campos Quartz
 
 | Posição | Campo | Obrigatório | Valores Permitidos | Caracteres Especiais |
 |---|---|---|---|---|
