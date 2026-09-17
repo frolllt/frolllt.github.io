@@ -1,4 +1,4 @@
-# Gerador e Validador Quartz Cron (100% Offline)
+# Gerador e Validador Quartz Cron
 
 Uma ferramenta completa, moderna e totalmente independente para gerar, validar, traduzir e prever execuções de expressões **Quartz Cron** (6 ou 7 campos).
 
@@ -54,10 +54,6 @@ Desenvolvida em um único arquivo **XHTML estrito** (`index.xhtml`), pronta para
 | 5 | **Mês** | Sim | `1-12` ou `JAN-DEC` | `, - * /` |
 | 6 | **Dia da Semana** | Sim | `1-7` (1=DOM, 7=SÁB) ou `SUN-SAT` | `, - * ? / L #` |
 | 7 | **Ano** | Não | `1970-2099` | `, - * /` |
-
----
-
-## 🔒 100% Offline e Seguro
 
 - **Zero dependências externas**: Não utiliza CDNs externos, fontes remotas ou imagens externas.
 - **Total privacidade**: Nenhuma informação digitada sai do seu navegador.
